@@ -13,7 +13,8 @@
 ## 🏞️ Una Imagen de Ejemplo
 
 Aquí tienes una imagen que he subido al repositorio para demostrar la capacidad:
-(images/github-logo.png)
+<img width="300" height="168" alt="download" src="https://github.com/user-attachments/assets/6240bbd5-5fd2-4fd4-b305-175ad8c75f0a" />
+
 
 ## 🔗 Enlace de Navegación
 Para ver otra sección de esta web, haz clic aquí:
