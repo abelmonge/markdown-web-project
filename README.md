@@ -13,6 +13,7 @@
 ## 🏞️ Una Imagen de Ejemplo
 
 Aquí tienes una imagen que he subido al repositorio para demostrar la capacidad:
+
 <img width="300" height="168" alt="download" src="https://github.com/user-attachments/assets/6240bbd5-5fd2-4fd4-b305-175ad8c75f0a" />
 
 
